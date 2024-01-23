@@ -1,0 +1,30 @@
+.note{
+    border:1px solid grey;
+    padding: 2rem;
+    font-size: 1rem;
+    color: #333;
+    height: 5rem;
+    border-radius: 0.5rem;
+    /* background-color: rgb(240, 201, 150); */
+    margin-top: 1rem;
+    color: white;
+}
+
+.high{
+    background-color: red;
+}
+
+.medium{
+    background-color: coral;
+}
+
+.low{
+    background-color: green;
+}
+
+.right{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0.5rem;
+}
